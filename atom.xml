@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://about.chenhuaji.com</id>
+    <id>https://www.chenhuaji.com</id>
     <title>陈滑稽的博客</title>
-    <updated>2021-10-25T12:41:46.431Z</updated>
+    <updated>2021-10-25T13:08:19.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://about.chenhuaji.com"/>
-    <link rel="self" href="https://about.chenhuaji.com/atom.xml"/>
+    <link rel="alternate" href="https://www.chenhuaji.com"/>
+    <link rel="self" href="https://www.chenhuaji.com/atom.xml"/>
     <subtitle>我行四方，以日以年</subtitle>
-    <logo>https://about.chenhuaji.com/images/avatar.png</logo>
-    <icon>https://about.chenhuaji.com/favicon.ico</icon>
+    <logo>https://www.chenhuaji.com/images/avatar.png</logo>
+    <icon>https://www.chenhuaji.com/favicon.ico</icon>
     <rights>All rights reserved 2021, 陈滑稽的博客</rights>
 </feed>

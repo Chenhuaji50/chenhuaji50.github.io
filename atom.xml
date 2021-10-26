@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.chenhuaji.com</id>
     <title>陈滑稽的博客</title>
-    <updated>2021-10-26T00:08:05.238Z</updated>
+    <updated>2021-10-26T06:43:56.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.chenhuaji.com"/>
     <link rel="self" href="https://www.chenhuaji.com/atom.xml"/>
@@ -10,45 +10,4 @@
     <logo>https://www.chenhuaji.com/images/avatar.png</logo>
     <icon>https://www.chenhuaji.com/favicon.ico</icon>
     <rights>All rights reserved 2021, 陈滑稽的博客</rights>
-    <entry>
-        <title type="html"><![CDATA[关于]]></title>
-        <id>https://www.chenhuaji.com/post/about/</id>
-        <link href="https://www.chenhuaji.com/post/about/">
-        </link>
-        <updated>2021-10-25T13:26:04.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://www.chenhuaji.com/post-images/1635206787753.jpg" alt="" loading="lazy"><br>
-我是<strong>陈滑稽</strong><br>
-某普通本科在读，还没毕业</p>
-<h1 id="介绍">介绍</h1>
-<ul>
-<li>擅长渗透测试、<del>Python、Golang</del></li>
-<li>喜欢渗透测试、安全研究、安全开发</li>
-<li>跟着参与过长亭洞鉴（Xray）的朋友进行小Xray（Xiuscan）的开发</li>
-<li>曾在杭州安恒信息技术股份有限公司的杭州总部实习</li>
-<li>曾在某知名乙方的夏令营中，取得安全服务top3的评价</li>
-<li>独立挖到过多个中高危</li>
-<li>目前在学校摸鱼，毕业设计走的是以前从来没有接触的安全开发，一个全新的挑战</li>
-<li>希望能顺利毕业</li>
-</ul>
-<h1 id="后宫">后宫</h1>
-<ul>
-<li>0r@nge：https://0range-x.github.io/<br>
-安全后浪，大二本科，在腾讯某安全团队实习，目前在转二进制</li>
-<li>panda：https://www.cnpanda.net/<br>
-Java安全大佬，就职于蚂蚁非攻实验室</li>
-<li>xg：http://xiu09.cn/<br>
-xg，就职于长亭，补天和CNVD总榜TOP100，挖过多个CVE</li>
-<li>十二：https://www.colcool.com/<br>
-大二在读，热爱web安全，江湖上无敌的十二神</li>
-<li>yanxia：http://535yx.cn<br>
-大二在读，福州大学至诚学院xxxx俱乐部的负责人，</li>
-<li>西瓜：https://www.xffbk.cn<br>
-利刃信安的Boss</li>
-<li>4ra1n：https://4ra1n.love/<br>
-华电许少，参与Xray的开发，我滴超人</li>
-<li>0x6270：https://www.baidu.com/<br>
-国企在职，二进制滴神！</li>
-</ul>
-]]></content>
-    </entry>
 </feed>
